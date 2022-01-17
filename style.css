@@ -1,0 +1,33 @@
+body {
+    background: rgb(153, 58, 241);
+    font: normal 18pt Arial; 
+}
+
+header {
+    color: rgba(0, 0, 0, 0.795); text-shadow:rgba(104, 101, 101, 0.842) 0.1em 0.1em 0.1em;
+    font-family: Impact, fantasy;
+    text-align: center;
+}
+
+section {
+    background: rgb(255, 251, 251);
+    border-radius: 15px;
+    padding: 13px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px  15px rgba(0, 0, 0, 0.685);
+}
+
+div {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0); text-shadow: rgba(73, 72, 72, 0.568) 0.1em 0.1em 0.1em;
+    text-align: center;
+    padding: 5px;
+}
+
+footer {
+    color: rgb(143, 139, 139);
+    text-align: center;
+    font-style: italic;
+    font-size: 13px;
+}
