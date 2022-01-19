@@ -1,5 +1,7 @@
 <h1>Site Hora do Dia</h1> 
 
+![alt text](https://github.com/leogonccalves/Site_HoraDoDia/blob/Origin/Git_SIte_HoraDoDia.gif)
+
 <div>
 <h2>Sobre o projeto : </h2>
 
@@ -14,7 +16,11 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
-<h2>Autor: </h2>
-<p>Leonardo Gonçalves</p><br> 
-<a href= "https://github.com/leogonccalves"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
+<h2>Exercício: </h2>
+<p>CursoEmVídeo - Profº Guanabara</p><br> 
+ <div>
+ <a href= "https://www.youtube.com/watch?v=b2K7eo5Jdj8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=25" ><img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
+  </div>
+   
+ 
+ 
